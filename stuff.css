@@ -1,0 +1,33 @@
+body{
+   background-color:#00CED1;
+
+}
+#fdkdkhghki{
+	color:#2E8B57;
+	font-size: 70px;
+	font-family: "Trebuchet MS";
+	text-align:center;
+	
+}
+.name{
+	list-style:none;
+	overflow:hidden;
+}
+.name li{
+	float:left;
+}
+.name li a{
+	padding:5px 10px;
+	display:block;
+	color:#00FF00;
+}
+.name li a:hover{
+	color:#008080;
+}
+.quote{
+	height:100px;
+	width:70px;
+	border:1px solid black;
+	margin:auto;
+
+}
